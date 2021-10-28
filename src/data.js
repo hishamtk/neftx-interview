@@ -1,6 +1,6 @@
 export const recipies =[
     {
-      title: "nostrud ex",
+      title: "Beef Soup",
       course: "Soup",
       cuisine: "Chinese",
       ingredients: [
@@ -23,7 +23,7 @@ export const recipies =[
       ]
     },
     {
-      title: "voluptate sunt",
+      title: "Chinese Pie",
       course: "Pies",
       cuisine: "Chinese",
       ingredients: [
@@ -52,7 +52,7 @@ export const recipies =[
       ]
     },
     {
-      title: "minim consectetur",
+      title: "Barcoli Snack",
       course: "Snack",
       cuisine: "Greek",
       ingredients: [
@@ -79,7 +79,7 @@ export const recipies =[
       ]
     },
     {
-      title: "non adipisicing",
+      title: "Spanish Oat",
       course: "Main",
       cuisine: "Spanish",
       ingredients: [
@@ -102,7 +102,7 @@ export const recipies =[
       ]
     },
     {
-      title: "veniam excepteur",
+      title: "Egg Item",
       course: "Soup",
       cuisine: "Spanish",
       ingredients: [
