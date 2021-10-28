@@ -46,11 +46,9 @@ export const recipies =[
         {
           name: "Sugar",
           quantity: 5
-        },
-        {
-          name: "Sugar",
-          quantity: 8
         }
+        
+        
       ]
     },
     {
@@ -67,11 +65,11 @@ export const recipies =[
           quantity: 9
         },
         {
-          name: "Onion",
+          name: "Flour",
           quantity: 1
         },
         {
-          name: "Onion",
+          name: "Egg",
           quantity: 7
         },
         {
@@ -124,10 +122,7 @@ export const recipies =[
           name: "Choclate",
           quantity: 8
         },
-        {
-          name: "Egg",
-          quantity: 8
-        },
+        
         {
           name: "Salt",
           quantity: 2
@@ -138,7 +133,7 @@ export const recipies =[
 
 export const stores = [
   {
-    title: "ad consectetur",
+    title: "Flipkart",
     items: [
       {
         name: "Flour",
@@ -213,7 +208,7 @@ export const stores = [
     ]
   },
   {
-    title: "amet sunt",
+    title: "Amazon",
     items: [
       {
         name: "Onion",
@@ -258,7 +253,7 @@ export const stores = [
     ]
   },
   {
-    title: "aliquip est",
+    title: "Snapdeal",
     items: [
       {
         name: "Sugar",
@@ -323,7 +318,7 @@ export const stores = [
     ]
   },
   {
-    title: "nulla labore",
+    title: "Myntra",
     items: [
       {
         name: "Flour",
@@ -363,7 +358,7 @@ export const stores = [
     ]
   },
   {
-    title: "ad duis",
+    title: "Big Basket",
     items: [
       {
         name: "Onion",
