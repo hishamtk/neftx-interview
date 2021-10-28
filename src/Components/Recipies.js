@@ -8,6 +8,7 @@ function Recipies({recipie,findStore}) {
   
 
     return (
+     
         <div className="card mb-4 box-shadow mx-2">
         <div className="card-header">
           <h4 className="my-0 font-weight-normal">{recipie.title}</h4>
@@ -24,6 +25,7 @@ function Recipies({recipie,findStore}) {
           <button onClick={()=>findStore(recipie)} type="button" className="btn btn-lg btn-block btn-outline-primary">Find Store</button>
         </div>
       </div>
+      
     )
 }
 
